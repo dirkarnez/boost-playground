@@ -13,3 +13,6 @@
  
  ### The Boost root directory should be like:
  ![](boost.jpg)
+ 
+ ### References
+ - [c++ - How to build Boost 1.64 in 64 bits- - Stack Overflow](https://stackoverflow.com/questions/43946538/how-to-build-boost-1-64-in-64-bits/43950508)
