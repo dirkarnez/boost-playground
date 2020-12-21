@@ -10,6 +10,6 @@ find_package(Boost REQUIRED COMPONENTS date_time filesystem iostreams)
 
 if(Boost_FOUND)
   include_directories(${Boost_INCLUDE_DIRS})
-  add_executable(boost-playground main.cpp)
-  target_link_libraries(boost-playground ${Boost_LIBRARIES})
+  add_executable(${PROJECT_NAME} main.cpp)
+  target_link_libraries(${PROJECT_NAME} ${Boost_LIBRARIES})
 endif()
