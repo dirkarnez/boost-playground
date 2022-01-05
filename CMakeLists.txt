@@ -5,7 +5,7 @@ project(boost-playground)
 
 set(Boost_NO_SYSTEM_PATHS TRUE)
 set(Boost_USE_STATIC_LIBS TRUE)
-set(BOOST_ROOT "C:\\Users\\Administrator\\Downloads\\boost-1.78.0-windows-2019-mingw.tar\\boost")
+set(BOOST_ROOT "C:\\Users\\Administrator\\Downloads\\boost-1.78.0-windows-2019-mingw.tar\\boost\\lib\cmake\Boost-1.78.0")
 
 find_package(Boost REQUIRED COMPONENTS filesystem)
 
