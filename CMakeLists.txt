@@ -5,7 +5,7 @@ project(boost-playground)
 
 set(Boost_NO_SYSTEM_PATHS TRUE)
 set(Boost_USE_STATIC_LIBS TRUE)
-set(BOOST_ROOT "P:\\Downloads\\cpp-libraries\\boost\\lib\cmake\Boost-1.78.0")
+set(BOOST_ROOT "P:/Downloads/cpp-libraries/boost/lib/cmake/Boost-1.78.0")
 
 find_package(Boost REQUIRED COMPONENTS filesystem)
 
