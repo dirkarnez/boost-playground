@@ -3,6 +3,9 @@ boost-playground
 ### Notes
 - This project DOES NOT use Clang, just `mingw64` (x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z)
 
+### Using
+- [dirkarnez/boost-prebuilt](https://github.com/dirkarnez/boost-prebuilt)
+
 ### Prerequisite
 - ~~Latest version of Visual Studio (currently 2019)~~
 - `mingw64` mentioned above
